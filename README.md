@@ -1,12 +1,10 @@
-### Hi there 👋
-I'm on the path to becoming a JavaScript enthusiast.
+---
+description: >-
+  Anthesis is the period during which a flower is fully open and functional. It
+  may also refer to the onset of that period.
+---
 
-### Current Situation:
-Right now I'm working on building a general purpose platform app with all sorts of random features as I learn more about JavaScript and Web Development. This is essentially going to be a base for learning purposes
+# About
 
-I'm hoping to have a functional version of this app by the end of this year and hopefully learn Angular along the way.
+This git-book was inspired by Max Antonucci whose notes on life and coding has helped me and heavily influenced how I see and approach code today. So following in his 'Exocortex' git book example, I will be using this git-book in a similar manner and I hope that it helps whoever stumbles upon this someday in the same way his notes helped me.
 
-I'm also participating in the Google Africa Developer Scholarship program under the Mobile Web Specialist track
-
-### Fun fact:
-This name was originally just a typo
