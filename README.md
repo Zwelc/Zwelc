@@ -2,8 +2,6 @@
 I'm on the path to becoming a JavaScript enthusiast.
 
 ### Current Situation:
-I'm hoping to have a functional version of this app by the end of this year and hopefully learn Angular along the way.
-
 I'm also participating in the Google Africa Developer Scholarship program under the Mobile Web Specialist track
 
 <hr>
