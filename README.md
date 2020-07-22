@@ -2,7 +2,7 @@
 I'm on the path to becoming a JavaScript enthusiast.
 
 ### Current Situation:
-I'm also participating in the Google Africa Developer Scholarship program under the Mobile Web Specialist track
+I'm participating in the Google Africa Developer Scholarship program under the Mobile Web Specialist track
 
 <hr>
 
