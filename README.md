@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm on the path to becoming a JavaScript enthusiast.
 
-### Current Situation:
+#### Current Situation:
 I'm participating in the Google Africa Developer Scholarship program under the Mobile Web Specialist track
 
 #### Competencies
