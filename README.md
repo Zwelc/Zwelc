@@ -9,7 +9,7 @@ I'm participating in the Google Africa Developer Scholarship program under the M
 <hr />
 <p align="center">
 <a href="https://codepen.io/zwelc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="zwelc" height="30" width="30" /></a>
-<a href="https://dev.to/zwelc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="zwelc" height="30" width="30" /></a>
+<a href="https://dev.to/zwelc_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="zwelc" height="30" width="30" /></a>
 <a href="https://twitter.com/zwelc_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zwelc_" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/zwelc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zwelc" height="30" width="30" /></a>
 <a href="https://instagram.com/zwelc_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="zwelc_" height="30" width="30" /></a>
