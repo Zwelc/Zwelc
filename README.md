@@ -18,6 +18,6 @@ Just a normal guy trying to learn as much as possible about the JavaScript ecosy
 
 <p>How I spent this week </p>
 
-[![zwelc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@zwelc&hide_title=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![zwelc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zwelc&hide_title=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zwelc&theme=react&hide_border=true)](https://git.io/streak-stats)
