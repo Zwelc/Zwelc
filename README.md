@@ -42,4 +42,10 @@ Just a normal guy trying to learn as much as possible about the JavaScript ecosy
 <a href="https://linkedin.com/in/zwelc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zwelc" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/Zwelc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="zwelc_" height="30" width="30" /></a>
 
+ </details>
+ 
+<h6>Now Playing: </h6>
+<a href="https://now-playing-profile-nnle1ai1p-zwelc.vercel.app/now-playing?open">
+    <img src="https://now-playing-profile-nnle1ai1p-zwelc.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+</a>
 
