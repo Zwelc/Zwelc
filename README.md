@@ -1,7 +1,6 @@
 ## Hi I'm Thurston
 
-<h4> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px> </h4>
-<hr />
+<h4> Skills </h4>
 <p align="left">
 <a href="https://angular.io" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg" alt="angular" width="40" height="24"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://simpleicons.org/icons/bootstrap.svg" alt="bootstrap" width="40" height="24"/> </a> 
@@ -16,8 +15,9 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://simpleicons.org/icons/react.svg" alt="react" width="40" height="24"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://simpleicons.org/icons/typescript.svg" alt="typescript" width="40" height="24"/> </a> </p>
 
+<h4>Github Stats</h4>
 
----
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zwelc&theme=react&hide_border=true)](https://git.io/streak-stats)
 
 <h6>Now Playing: </h6>
 <a href="https://now-playing-profile-nnle1ai1p-zwelc.vercel.app/now-playing?open">
@@ -27,12 +27,7 @@
 ---
 
 
-<details>
-<summary>Github Stats </summary>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zwelc&theme=react&hide_border=true)](https://git.io/streak-stats)
-
-</details>
 
 
 
