@@ -20,20 +20,12 @@ jobs:
           template: classic
           base: header, activity, community, metadata
           config_timezone: Africa/Johannesburg
-          plugin_languages: yes
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
           plugin_music: yes
-          plugin_music_limit: 4
-          plugin_music_mode: recent
           plugin_music_provider: spotify
-          plugin_music_user: zwelc
+          plugin_music_mode: recent
+          plugin_music_limit: 4
+          plugin_music_played_at: yes
+          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_topics: yes
@@ -41,6 +33,7 @@ jobs:
           plugin_topics_mode: starred
           plugin_topics_sort: stars
           plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
