@@ -18,13 +18,13 @@ jobs:
           # Options
           user: Zwelc
           template: classic
-          base: header, activity, community, metadata
+          base: header, activity, community, metadata, repositories
           config_timezone: Africa/Johannesburg
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_days: 14
+          plugin_wakatime_days: 30
           plugin_wakatime_limit: 5
-          plugin_wakatime_sections: time, projects, languages, editors, os, os-graphs, languages-graphs
+          plugin_wakatime_sections: time, projects, languages, editors, os, languages-graphs, projects-graphs
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: zwelc
           plugin_stars: yes
