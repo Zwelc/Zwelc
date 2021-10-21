@@ -8,10 +8,10 @@ I’m a software developer with a passion for web development. I’m always will
 #### Now Playing
 [![Now Playing](https://now-playing-profile-nnle1ai1p-zwelc.vercel.app/now-playing)](https://spotify.com)
 
-<details open>
-<summary> Connect with me </summary>
-<a href="https://twitter.com/zwelc_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zwelc_" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/zwelc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zwelc" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/Zwelc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="zwelc_" height="30" width="30" /></a>
-
- </details>
+<details>
+ <summary> Github Stats </summary>
+<p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api?username=zwelc&theme=react&show_icons=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=zwelc&theme=react&hide_border=true" width = 400>
+</p>
+</details>
